@@ -1,0 +1,101 @@
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/snipplr-widget\n"
+"POT-Creation-Date: 2011-02-23 14:43:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: snipplrwidget.php:32
+msgid "Display your latest Snipplr snippets."
+msgstr ""
+
+#: snipplrwidget.php:145
+msgid "Show on Snipplr:"
+msgstr ""
+
+#: snipplrwidget.php:151
+msgid "Error contacting api."
+msgstr ""
+
+#: snipplrwidget.php:161
+msgid "Recent Snippets"
+msgstr ""
+
+#: snipplrwidget.php:173
+msgid "Title:"
+msgstr ""
+
+#: snipplrwidget.php:177
+msgid "Your API key:"
+msgstr ""
+
+#: snipplrwidget.php:181
+msgid "Number of Snippets to show:"
+msgstr ""
+
+#: snipplrwidget.php:187
+msgid "Show private Snippets"
+msgstr ""
+
+#: snipplrwidget.php:192
+msgid "Show favorite Snippets"
+msgstr ""
+
+#: snipplrwidget.php:195
+msgid "Sort Snippets by:"
+msgstr ""
+
+#: snipplrwidget.php:197
+msgid "Date"
+msgstr ""
+
+#: snipplrwidget.php:198
+msgid "Title"
+msgstr ""
+
+#: snipplrwidget.php:199
+msgid "Random"
+msgstr ""
+
+#: snipplrwidget.php:203
+msgid "Cache Snippets for:"
+msgstr ""
+
+#: snipplrwidget.php:205
+msgid "Never cache"
+msgstr ""
+
+#: snipplrwidget.php:206
+msgid "30 minutes"
+msgstr ""
+
+#: snipplrwidget.php:207
+msgid "1 hour"
+msgstr ""
+
+#: snipplrwidget.php:208
+msgid "6 hours"
+msgstr ""
+
+#: snipplrwidget.php:209
+msgid "12 hours"
+msgstr ""
+
+#: snipplrwidget.php:210
+msgid "1 day"
+msgstr ""
+
+#: snipplrwidget.php:211
+msgid "Custom time"
+msgstr ""
+
+#: snipplrwidget.php:216
+msgid "Custom time (minutes):"
+msgstr ""
